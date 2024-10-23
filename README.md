@@ -1,10 +1,10 @@
 # Spotify-Recommendation-System
 This is a recommendation system which recommends music according to the genre of the selected music.
 
-Overview
+##Overview
 This project implements a sentiment analysis model that classifies text data into positive, negative, or neutral sentiments. The model is built using logistic regression and NLP and trained on spotify_songs.csv dataset.
 
-Steps
+##Steps
 First Run the main.ipynb
 Two .pkl files will be generated
 Run the api.py
