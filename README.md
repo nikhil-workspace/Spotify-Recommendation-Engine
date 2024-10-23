@@ -1,7 +1,7 @@
 # Spotify-Recommendation-System
 This is a recommendation system which recommends music according to the genre of the selected music.
 
-Overview
+Overview:
 This project implements a recommendation system model that recommends similar types of songs. The model is built using logistic regression and NLP and trained on spotify_songs.csv dataset.
 
 Steps
